@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruzza-Bot Official Page</title>
+    <style>
+        body {
+            background-color: #202020;
+            text-align: center;
+            font-family: Helvetica, Arial, sans-serif;
+            color: white;
+        }
+        button {
+            background-color: white;
+            color: #202020;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #ddd;
+        }
+        a {
+            color: blueviolet;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Official Ruzza-Bot Page</h1>
+    <hr>
+
+    <h2>Support:</h2>
+    <p>Our Email: <a href="mailto:ruzzdcbot@gmail.com" target="_blank">ruzzdcbot@gmail.com</a></p>
+    <p>Discord: <a href="https://discord.gg/GMKzCAKQsh" target="_blank"><button>Join</button></a></p>
+    <hr>
+
+    <h2>Creds:</h2>
+    <p><strong>Ruzza</strong> - Owner</p>
+    <p><strong>Latte</strong> - Head Developer</p>
+    <p><strong>Cinupe</strong> - Developer</p>
+    <hr>
+
+    <h2>Download:</h2>
+    <p>Download from our Discord server in the Downloads channel!</p>
+
+</body>
+</html>
